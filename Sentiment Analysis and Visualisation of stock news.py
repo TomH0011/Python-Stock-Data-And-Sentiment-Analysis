@@ -1,14 +1,10 @@
-#import numpy as np
 import datetime as dt
 import pandas as pd
 import yfinance as yf
-#from pandas_datareader import data as pdr
 import matplotlib.pyplot as plt
 from urllib.request import urlopen, Request
-#import requests
 from bs4 import BeautifulSoup
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-#import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from scipy import stats
 import matplotlib.dates as mdates
