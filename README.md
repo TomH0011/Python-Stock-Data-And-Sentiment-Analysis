@@ -1,1 +1,1 @@
-# My-Projects
+Python Stock Data and sentiment analysis
