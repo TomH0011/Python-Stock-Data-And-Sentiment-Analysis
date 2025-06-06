@@ -1,0 +1,15 @@
+
+---
+
+### `requirements.txt`
+
+```txt
+beautifulsoup4==4.12.2
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+requests==2.31.0
+scipy==1.13.1
+tk
+vaderSentiment==3.3.2
+yfinance==0.2.37
