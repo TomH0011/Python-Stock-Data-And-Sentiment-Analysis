@@ -23,3 +23,14 @@ An interactive Python dashboard to analyse and visualise stock data, sentiment f
    ```bash
    git clone https://github.com/yourusername/stock-analysis-dashboard.git
    cd stock-analysis-dashboard
+2. **Install Dependencies:**
+
+   pip install -r requirements.txt
+
+3. Add your Alpha Vantage API key:
+
+   Open the Python file and replace:
+
+   self.api_key = 'ENTER YOUR OWN API KEY HERE'
+
+   with your actual API key from Alpha Vantage.
